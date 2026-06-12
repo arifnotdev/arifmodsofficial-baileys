@@ -1,11 +1,11 @@
 
 # arif
 
-A high-performance, production-grade WhatsApp automation library built for reliability and scalability. YakuzaXsilence provides a robust abstraction layer over the Baileys protocol, ensuring seamless connectivity and advanced pairing mechanisms.
+A high-performance, production-grade WhatsApp automation library built for reliability and scalability. Arif X Noxveil Crash provides a robust abstraction layer over the Baileys protocol, ensuring seamless connectivity and advanced pairing mechanisms.
 
 ## Author
 
-**OmhcSilence**
+**ArifModsOfficial**
 
 ## Core Capabilities
 
